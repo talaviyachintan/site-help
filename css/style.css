@@ -1,0 +1,23 @@
+* {
+    background-color: black;
+}
+
+a {
+    display: inline-block;
+    color: #636363;
+    padding: 10px;
+    border: 1px solid #fff;
+    margin: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    transition: all .3s ease-in-out;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float: left;
+    border-radius: 20px;
+    width: 30%;
+    word-wrap: break-word;
+}
+
+a:hover {
+    color: #fff;
+}
